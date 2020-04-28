@@ -1,0 +1,23 @@
+$text: #546e7a;
+$red: #e74c3c;
+$green: #8bc34a;
+$yellow: #fcb322;
+$orange: #ef6c00;
+$white: white;
+$bg: #263238;
+$grey: #f4f6f5;
+$home-breadcrumbs: #b0bec5;
+$active-breadcrumbs: #263238;
+$border: #dcdcdc;
+$border-line: #dde3e8;
+$red-btn: #e85647;
+
+@mixin f500 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+}
+
+@mixin f700 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+}
